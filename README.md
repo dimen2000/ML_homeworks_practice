@@ -1,1 +1,3 @@
-# ML_homeworks_practice
+# Практические домашние задания по курсу «Машинное обучение» 2021 осень ИТММ магистратура
+## Выполнил Крюков Дмитрий Алексеевич
+Теоретические домашние задания здесь: https://drive.google.com/drive/folders/19s9_Ydnvbs8G8ZpHAnqfHXzzQTzdOPYJ?usp=sharing
